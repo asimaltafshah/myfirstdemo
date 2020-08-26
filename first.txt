@@ -1,3 +1,4 @@
 my first file.
 commited from cmd line
+commited from smartgit
 commited from github web
