@@ -1,5 +1,6 @@
 my first file.
 add line in master branch
+add line in dev branch
 commited from cmd line
 commited from smartgit
 commited from github web
