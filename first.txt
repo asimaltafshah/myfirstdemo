@@ -4,4 +4,5 @@ add line in dev branch
 commited from cmd line
 commited from smartgit
 commited
+newline added after all procedures
 commited from github web
